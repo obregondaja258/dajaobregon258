@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header .navbar-brand img {
+    max-width: 120px;
+}
+
+.header{
+    background: linear-gradient(80deg,yellow,orange);
+}
+
+h1{
+    color: rgb(224, 13, 13);
+    font-family: fantasy;
+}
+.contactanos {
+    background: url(snack-2635035_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 900px;
+}
+
+.img-fluid{
+    border-radius: 40%;
+    position: relative;
+    top: 10px;
+}
+.hero {
+    padding: 100px 0;
+    text-align: center;
+    background: url(cheese-burger-8770017_1280.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+}
+.acercade{
+    min-height: 600px;
+    background: url(Hamburguesa-de-pollo-picante.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+}
+.Letra p{
+   color:black;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 2rem;
+}
+.hero-content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.menu {
+    padding: 50px 0;
+    
+}
+footer p{
+    color: black;
+}
+
+.footer{
+    background: linear-gradient(80deg,yellow,orange);
+}
+
